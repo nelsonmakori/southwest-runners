@@ -105,3 +105,9 @@ button{
     margin-left:6px;
     margin-bottom: -69px;
 }
+
+@media all and (max-width: 500px) {
+    body{
+       background-color: rgb(162, 218, 162);
+    }
+}
